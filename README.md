@@ -3,3 +3,4 @@ Front End codes and design for a manual sales website
 
 To easily view the site After cloning open "index2.html" with your browser
 Thats all
+P.S Its not fully responsive yet... A work in progress
